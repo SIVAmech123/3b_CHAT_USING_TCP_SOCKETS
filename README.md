@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-### NAME : V RAKSHA DHARANIKA
-### REF  : 212223230167
+### NAME : R.SIVAKUMAR
+### REF  : 212223230209
 ### DEP  :  AIDS
 ## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
